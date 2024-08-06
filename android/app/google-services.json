@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093740561307",
+    "project_id": "convo-app-d6ef2",
+    "storage_bucket": "convo-app-d6ef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093740561307:android:099365392b6a532eab573e",
+        "android_client_info": {
+          "package_name": "com.example.talk_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmDkVHFh8uhL_GIbo73_eUFxCjHFRV5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
